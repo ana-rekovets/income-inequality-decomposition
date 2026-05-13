@@ -1,0 +1,12 @@
+# Data files (not redistributable) 
+*.dta 
+*.xlsx 
+*.csv 
+# Stata output 
+*.log 
+*.smcl 
+*.gph 
+*.ster 
+# Office files 
+*.docx 
+*.pptx 
